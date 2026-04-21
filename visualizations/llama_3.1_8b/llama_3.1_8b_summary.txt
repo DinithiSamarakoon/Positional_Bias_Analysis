@@ -1,0 +1,8 @@
+Model: llama_3.1_8b
+Sample Size: 5
+Date: 2026-04-20 10:36:03
+
+Position Sensitivity:
+  Baseline: 0.0000
+  CoT: 0.0000
+  Repetition: 0.0000
